@@ -28,6 +28,6 @@ I share **projects, insights, and technical solutions** related to:
 ## 📫 **Let's Connect!**  
 🔗 [LinkedIn](https://linkedin.com/in/dhiradc) | 📧 dhiradc@yahoo.com  
 
-## This repository was created to showcase my analytical and technical skills (Excel, SQL, Tableau, PowerPoint, Word, UX/UI and others).
+This repository was created to showcase my analytical and technical skills (Excel, SQL, Tableau, PowerPoint, Word, UX/UI and others).
 
 Always open to **collaboration, knowledge sharing, and FinTech innovations**! 🚀 
